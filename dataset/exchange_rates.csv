@@ -1,0 +1,6 @@
+rate_date,from_currency,to_currency,rate
+2026-09-01,USD,EUR,0.92
+2026-09-01,EUR,USD,1.09
+2026-09-01,USD,INR,83
+2026-09-01,USD,ZAR,18.5
+2026-09-01,USD,IDR,15800

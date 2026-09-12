@@ -1,0 +1,3 @@
+message_id,user_id,request_id,related_event_id,message_date,message_type,content
+msg_01,user_02,req_02,,2026-09-10,clarification,The school fees are 35000 INR total payable over 3 months.
+msg_02,user_04,req_04,,2026-09-08,confirmation,I want to pay off the credit card debt in installments.

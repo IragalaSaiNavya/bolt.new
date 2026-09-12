@@ -1,0 +1,24 @@
+event_id,user_id,event_date,event_type,amount,currency,description,recurring,recurring_frequency,status,category,linked_event_id,is_essential,is_flexible
+ev_01,user_01,2026-09-01,salary,4000,USD,Monthly salary,true,monthly,confirmed,income,,true,false
+ev_02,user_01,2026-09-05,expense,1500,USD,Rent,true,monthly,confirmed,housing,,true,false
+ev_03,user_01,2026-09-10,expense,300,USD,Groceries,true,monthly,confirmed,food,,true,false
+ev_04,user_01,2026-09-15,expense,120,USD,Streaming subscriptions,true,monthly,confirmed,entertainment,,false,true
+ev_05,user_01,2026-09-20,expense,200,USD,Utilities,true,monthly,confirmed,utilities,,true,false
+ev_06,user_02,2026-09-01,salary,60000,INR,Monthly salary,true,monthly,confirmed,income,,true,false
+ev_07,user_02,2026-09-05,expense,18000,INR,Rent,true,monthly,confirmed,housing,,true,false
+ev_08,user_02,2026-09-10,expense,5000,INR,Groceries,true,monthly,confirmed,food,,true,false
+ev_09,user_02,2026-09-15,expense,3000,INR,Entertainment,true,monthly,confirmed,entertainment,,false,true
+ev_10,user_02,2026-09-25,expense,2000,INR,Phone bill,true,monthly,confirmed,utilities,,true,false
+ev_11,user_03,2026-09-01,salary,2800,EUR,Monthly salary,true,monthly,confirmed,income,,true,false
+ev_12,user_03,2026-09-05,expense,900,EUR,Rent,true,monthly,confirmed,housing,,true,false
+ev_13,user_03,2026-09-10,expense,250,EUR,Groceries,true,monthly,confirmed,food,,true,false
+ev_14,user_03,2026-09-15,expense,80,EUR,Gym membership,true,monthly,confirmed,health,,false,true
+ev_15,user_04,2026-09-01,salary,25000,ZAR,Monthly salary,true,monthly,confirmed,income,,true,false
+ev_16,user_04,2026-09-05,expense,8000,ZAR,Rent,true,monthly,confirmed,housing,,true,false
+ev_17,user_04,2026-09-10,expense,3000,ZAR,Groceries,true,monthly,confirmed,food,,true,false
+ev_18,user_04,2026-09-15,expense,2000,ZAR,Dining out,true,monthly,confirmed,entertainment,,false,true
+ev_19,user_04,2026-09-20,expense,1500,ZAR,Transport,true,monthly,confirmed,transport,,true,false
+ev_20,user_05,2026-09-01,salary,25000000,IDR,Monthly salary,true,monthly,confirmed,income,,true,false
+ev_21,user_05,2026-09-05,expense,5000000,IDR,Rent,true,monthly,confirmed,housing,,true,false
+ev_22,user_05,2026-09-10,expense,2000000,IDR,Groceries,true,monthly,confirmed,food,,true,false
+ev_23,user_05,2026-09-15,expense,1000000,IDR,Entertainment,true,monthly,confirmed,entertainment,,false,true

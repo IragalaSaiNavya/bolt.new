@@ -1,0 +1,6 @@
+request_id,user_id,request_date,request_type,requested_amount,desired_completion_date,allows_partial_payment,request_text
+req_01,user_01,2026-09-12,purchase,1200,2026-09-12,true,Can I afford this laptop?
+req_02,user_02,2026-09-12,education,35000,2026-10-15,true,Can I pay for my child's school fees?
+req_03,user_03,2026-09-12,travel,2800,2026-09-20,false,Can I book a flight to visit family?
+req_04,user_04,2026-09-12,debt_repayment,12000,2026-12-01,true,Can I pay off my credit card debt?
+req_05,user_05,2026-09-12,housing,8000000,2026-10-12,true,Can I afford the down payment for an apartment?
