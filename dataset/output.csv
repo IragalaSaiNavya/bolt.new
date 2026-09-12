@@ -1,1 +1,16 @@
-request_id,amount_safe_to_pay,affordability_status,recommended_payment_method,payment_plan,earliest_date_for_full_payment,spending_changes_needed,decision_explanation
+request_id	amount_safe_to_pay	affordability_status	recommended_payment_method	payment_plan	earliest_date_for_full_payment	spending_changes_needed	decision_explanation
+REQ001	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ002	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ003	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ004	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ005	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ006	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ007	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ008	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ009	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ010	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ011	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ012	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ013	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ014	0	not_affordable	not_recommended	none		none	No financial profile found for user.
+REQ015	0	not_affordable	not_recommended	none		none	No financial profile found for user.
